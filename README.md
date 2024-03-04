@@ -15,7 +15,11 @@ generamos vistas -----> 02:45
 
 configuramos sockets -----> 02:48
 
-dejé en -----> 02:55
+configuramos sweet Alert -----> 03:05
+
+escuchador de eventos del chatbox -----> 03:12
+
+dejé en -----> 03:39
 
 () => {}
 
