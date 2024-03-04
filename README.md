@@ -13,7 +13,9 @@ generamos rutas -----> 02:42
 
 generamos vistas -----> 02:45
 
+configuramos sockets -----> 02:48
 
+dejé en -----> 02:55
 
 () => {}
 
