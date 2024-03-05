@@ -21,6 +21,8 @@ escuchador de eventos del chatbox -----> 03:12
 
 empieza el deploy -----> 03:39
 
+glitch -----> 03:43
+
 () => {}
 
 `backticks`
